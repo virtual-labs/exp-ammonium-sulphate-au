@@ -1,1 +1,1 @@
-## Experiment name
+## Purification of IgG Antibodies with Ammonium Sulphate
