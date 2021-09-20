@@ -1,7 +1,4 @@
 ### Principle
- 
-&nbsp;
-
 
 The diversity of the antibody-antigen interaction and our ability to manipulate the characteristics of this interaction has created many uses for antibodies and antibody fragments, both for immunochemical techniques within general research and for therapeutic and diagnostic applications. Ascites are intraperitoneal fluid from mice with peritoneal tumors that has been induced by injecting single cloned hybridoma cells. In mouse peritoneum, hybridoma   cells grow to high densities and secrete antibodies of interest. Ammonium sulfate precipitation is a method used to purify antibodies  by altering their solubility from ascites ,serum or hybridoma supernatant. It is a specific case of a more general technique known as salting out.
 
@@ -59,7 +56,7 @@ Ammonium sulphate is found to stabilize proteins in solution by raising the midp
  
 
 
-### Dialysis
+#### Dialysis
  
 
  
@@ -82,7 +79,7 @@ Dialysis membranes are available in a number of thicknesses and pore sizes. Thic
  
  
 
-### Selection and Preparation of Dialysis Membrane:
+#### Selection and Preparation of Dialysis Membrane:
 
  
 &nbsp;
