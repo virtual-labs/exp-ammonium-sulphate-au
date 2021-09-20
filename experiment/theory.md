@@ -1,7 +1,4 @@
 ### Principle
- 
-&nbsp;
-
 
 The diversity of the antibody-antigen interaction and our ability to manipulate the characteristics of this interaction has created many uses for antibodies and antibody fragments, both for immunochemical techniques within general research and for therapeutic and diagnostic applications. Ascites are intraperitoneal fluid from mice with peritoneal tumors that has been induced by injecting single cloned hybridoma cells. In mouse peritoneum, hybridoma   cells grow to high densities and secrete antibodies of interest. Ammonium sulfate precipitation is a method used to purify antibodies  by altering their solubility from ascites ,serum or hybridoma supernatant. It is a specific case of a more general technique known as salting out.
 
@@ -59,13 +56,9 @@ Ammonium sulphate is found to stabilize proteins in solution by raising the midp
  
 
 
-### Dialysis
+#### Dialysis
  
 
- 
-&nbsp;
-
- 
 
 Dialysis Tubing is a type of semi- or partially permeable membrane tubing  made from regenerated cellulose or cellophane. The solution to be dialyzed is placed in a sealed dialysis membrane and immersed in a selected buffer; small solute molecules then equilibrate between the sample and the dialysate. Concomitant with the movement of small solutes across the membrane, however, is the movement of solvent in the opposite direction. This can result in some sample dilution (usually <50%). It is used in clinical circumstances to ensure a filtered flow of molecules, preventing the flow of larger solute molecules.
 
@@ -82,13 +75,8 @@ Dialysis membranes are available in a number of thicknesses and pore sizes. Thic
  
  
 
-### Selection and Preparation of Dialysis Membrane:
+#### Selection and Preparation of Dialysis Membrane:
 
- 
-&nbsp;
-
- 
- 
 
 Remove membrane from the roll and cut into usable lengths - Always use gloves to handle dialysis membrane, as it is susceptible to a number of cellulolytic microorganisms. Membrane is available as sheets or preformed tubing.
 Wet membrane and boil it for several minutes in a large excess of 10 mM sodium bicarbonate.
