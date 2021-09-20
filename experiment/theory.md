@@ -59,10 +59,6 @@ Ammonium sulphate is found to stabilize proteins in solution by raising the midp
 #### Dialysis
  
 
- 
-&nbsp;
-
- 
 
 Dialysis Tubing is a type of semi- or partially permeable membrane tubing  made from regenerated cellulose or cellophane. The solution to be dialyzed is placed in a sealed dialysis membrane and immersed in a selected buffer; small solute molecules then equilibrate between the sample and the dialysate. Concomitant with the movement of small solutes across the membrane, however, is the movement of solvent in the opposite direction. This can result in some sample dilution (usually <50%). It is used in clinical circumstances to ensure a filtered flow of molecules, preventing the flow of larger solute molecules.
 
@@ -81,11 +77,6 @@ Dialysis membranes are available in a number of thicknesses and pore sizes. Thic
 
 #### Selection and Preparation of Dialysis Membrane:
 
- 
-&nbsp;
-
- 
- 
 
 Remove membrane from the roll and cut into usable lengths - Always use gloves to handle dialysis membrane, as it is susceptible to a number of cellulolytic microorganisms. Membrane is available as sheets or preformed tubing.
 Wet membrane and boil it for several minutes in a large excess of 10 mM sodium bicarbonate.
